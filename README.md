@@ -34,6 +34,7 @@
 ![ Flask ](https://img.shields.io/badge/Flask-flask?logo=flask&logoColor=white&labelColor=%234b034b&color=black)
 ![ Jinja ](https://img.shields.io/badge/Jinja-jinja?logo=jinja&logoColor=white&labelColor=%234b034b&color=black)
 ![ Bootstrap ](https://img.shields.io/badge/Bootstrap-bootstrap?logo=bootstrap&logoColor=white&labelColor=%234b034b&color=black)
+![ Materialise ](https://img.shields.io/badge/Materialise-materialise?labelColor=%234b034b&color=black)
 ![ Font Awesome ](https://img.shields.io/badge/FontAwesome-fontawesome?logo=fontawesome&logoColor=white&labelColor=%234b034b&color=black)
 
 
@@ -52,18 +53,14 @@
 ![ GitHub ](https://img.shields.io/badge/GitHub-github?logo=github&logoColor=white&labelColor=%234b034b&color=black)
 ![ Git ](https://img.shields.io/badge/Git-git?logo=git&logoColor=white&labelColor=%234b034b&color=black)
 ![ Gitpod ](https://img.shields.io/badge/Gitpod-gitpod?logo=gitpod&logoColor=white&labelColor=%234b034b&color=black)
+![ CodeAnywhere ](https://img.shields.io/badge/CodeAnywhere-codeanywhere?labelColor=%234b034b&color=black)
 ![ Visual Studio Code ](https://img.shields.io/badge/VisualStudioCode-visualstudiocode?logo=visualstudiocode&logoColor=white&labelColor=%234b034b&color=black) 
 
 **Hosting**
-<p dir="auto">
-    <img alt="Heroku" src="https://img.shields.io/badge/heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
- </p>
+![ Heroku ](https://img.shields.io/badge/Heroku-heroku?logo=heroku&logoColor=white&labelColor=%234b034b&color=black)
  
 **Cloud Storage**
- <p dir="auto">
-    <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-ec7211?logo=aws&logoColor=white&style=for-the-badge" />
-    <img alt="Cloudinary API" src="https://img.shields.io/badge/cloudinary%20api-0000FF?logo=cloudinary&logoColor=white&style=for-the-badge" /> 
- </p> 
+ ![ Amazon S3 ](https://img.shields.io/badge/AmazonS3-amazons3?logo=amazons3&logoColor=white&labelColor=%234b034b&color=black)
  
 **Serverless Solutions**
  <p dir="auto">
@@ -71,18 +68,12 @@
  </p> 
  
 **Wireframes, Interface Design &amp; Collaborative Whiteboard**
- <p dir="auto">
-    <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
-    <img alt="Lucidspark" src="https://img.shields.io/badge/lucidspark-ff3d3d?logo=lucidspark&logoColor=white&style=for-the-badge" />
-    <img alt="FigJam" src="https://img.shields.io/badge/figjam-f0e3ff?logo=figjam&logoColor=white&style=for-the-badge" /> 
- </p> 
 
-**Adobe Creative Cloud**
- <p dir="auto">
-    <img alt="InDesign" src="https://img.shields.io/badge/indesign-47021e.svg?style=for-the-badge&logo=indesign&logoColor=#ff3366" />
-    <img alt="Illustrator" src="https://img.shields.io/badge/illustrator-310000?logo=illustrator&logoColor=white&style=for-the-badge" />
-    <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?logo=photoshop&logoColor=white&style=for-the-badge" /> 
- </p> 
+
+![ Figma ](https://img.shields.io/badge/Figma-figma?logo=figma&logoColor=white&labelColor=%234b034b&color=black)
+
+**Public Cloud**
+![ Google Cloud ](https://img.shields.io/badge/GoogleCloud-googlecloud?logo=googlecloud&logoColor=white&labelColor=%234b034b&color=black)
  
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
