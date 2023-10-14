@@ -20,8 +20,8 @@
 
 **I’m continuing to learn**
 
-<p dir="auto">
   ![Phyton](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)
+<p dir="auto">
 
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&labelColor=%234b034b&color=black">
 </p>
