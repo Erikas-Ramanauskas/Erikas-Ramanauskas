@@ -53,7 +53,7 @@
 **Cloud Storage**
 ![ Amazon S3 ](https://img.shields.io/badge/AmazonS3-amazons3?logo=amazons3&logoColor=white&labelColor=%234b034b&color=black)
  
-**Wireframes, Interface Design &amp; Collaborative Whiteboard**
+**Wireframes**
 ![ Figma ](https://img.shields.io/badge/Figma-figma?logo=figma&logoColor=white&labelColor=%234b034b&color=black)
 
 **Public Cloud**
