@@ -25,8 +25,7 @@
 ![ CSS3 ](https://img.shields.io/badge/CSS3-css3?logo=css3&logoColor=white&labelColor=%234b034b&color=black)
 ![ JavaScript ](https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&labelColor=%234b034b&color=black)
 ![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)
- 
- 
+
 **Libraries &amp; Frameworks**
 
 ![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)
@@ -46,7 +45,7 @@
 ![ PostgreSQL ](https://img.shields.io/badge/PostgreSQL-postgresql?logo=postgresql&logoColor=white&labelColor=%234b034b&color=black)
 ![ MySQL ](https://img.shields.io/badge/MySQL-mysql?logo=mysql&logoColor=white&labelColor=%234b034b&color=black)
 ![ MongoDB ](https://img.shields.io/badge/MongoDB-mongodb?logo=mongodb&logoColor=white&labelColor=%234b034b&color=black)
- 
+
 **Version Control &amp; IDEs**
 
 ![ GitHub ](https://img.shields.io/badge/GitHub-github?logo=github&logoColor=white&labelColor=%234b034b&color=black)
