@@ -65,7 +65,7 @@
 
 | Immage | Description and Tools | Project Grade |
 | :--- | :---: | :--- | 
-|  **MILESTONE PROJECT 1: Brick by Brick**  <br/> ![Brick by Brick Responsive](https://github.com/Erikas-Ramanauskas/Milestone-Project-1/raw/master/assets/Images/Read-me/Responsive-img.jpg) <br/> <br/> [Brick by Brick](https://github.com/Erikas-Ramanauskas/Milestone-Project-1) This is a website for the "Brick by brick" bricklayer company. It is created to be responsible on all range of devices informing any visitor of what the companies services and goals are as well as helping to find new clients. <br/> <br/> **FEATURES:**<br/> 1. Augmented Reality <br/> 2. CSS Flexbox and Grid <br/> 3. Fully Responsive | HTML5, CSS, Augmented Reality (Vectary) | Distinction | 
+|  **MILESTONE PROJECT 1: Brick by Brick**  <br/> ![Brick by Brick Responsive](https://github.com/Erikas-Ramanauskas/Milestone-Project-1/raw/master/assets/Images/Read-me/Responsive-img.jpg) | [Brick by Brick](https://github.com/Erikas-Ramanauskas/Milestone-Project-1) This is a website for the "Brick by brick" bricklayer company. It is created to be responsible on all range of devices informing any visitor of what the companies services and goals are as well as helping to find new clients. <br/> <br/> **FEATURES:**<br/> 1. Augmented Reality <br/> 2. CSS Flexbox and Grid <br/> 3. Fully Responsive HTML5, CSS, Augmented Reality (Vectary) | Distinction | 
 
 
 
