@@ -37,7 +37,6 @@
 ![ Materialise ](https://img.shields.io/badge/Materialise-materialise?labelColor=%234b034b&color=black)
 ![ Font Awesome ](https://img.shields.io/badge/FontAwesome-fontawesome?logo=fontawesome&logoColor=white&labelColor=%234b034b&color=black)
 
-
 **Automated Testing**
 
 ![ Jest ](https://img.shields.io/badge/Jest-jest?logo=jest&logoColor=white&labelColor=%234b034b&color=black)
@@ -48,7 +47,7 @@
 ![ MySQL ](https://img.shields.io/badge/MySQL-mysql?logo=mysql&logoColor=white&labelColor=%234b034b&color=black)
 ![ MongoDB ](https://img.shields.io/badge/MongoDB-mongodb?logo=mongodb&logoColor=white&labelColor=%234b034b&color=black)
  
-**Version Control &amp; IDEs **
+**Version Control &amp; IDEs**
 
 ![ GitHub ](https://img.shields.io/badge/GitHub-github?logo=github&logoColor=white&labelColor=%234b034b&color=black)
 ![ Git ](https://img.shields.io/badge/Git-git?logo=git&logoColor=white&labelColor=%234b034b&color=black)
