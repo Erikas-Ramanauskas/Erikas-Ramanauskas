@@ -57,18 +57,14 @@
 ![ Visual Studio Code ](https://img.shields.io/badge/VisualStudioCode-visualstudiocode?logo=visualstudiocode&logoColor=white&labelColor=%234b034b&color=black) 
 
 **Hosting**
+
 ![ Heroku ](https://img.shields.io/badge/Heroku-heroku?logo=heroku&logoColor=white&labelColor=%234b034b&color=black)
  
 **Cloud Storage**
- ![ Amazon S3 ](https://img.shields.io/badge/AmazonS3-amazons3?logo=amazons3&logoColor=white&labelColor=%234b034b&color=black)
- 
-**Serverless Solutions**
- <p dir="auto">
-    <img alt="Azure Functions" src="https://img.shields.io/badge/Azure Functions-008ad7?logo=Azure&logoColor=white&style=for-the-badge" />
- </p> 
+
+![ Amazon S3 ](https://img.shields.io/badge/AmazonS3-amazons3?logo=amazons3&logoColor=white&labelColor=%234b034b&color=black)
  
 **Wireframes, Interface Design &amp; Collaborative Whiteboard**
-
 
 ![ Figma ](https://img.shields.io/badge/Figma-figma?logo=figma&logoColor=white&labelColor=%234b034b&color=black)
 
