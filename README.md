@@ -10,7 +10,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-linkedin?logo=linkedin&logoColor=white&labelColor=%234b034b&color=black">
 </a>
 
-
+| -------- | ------- |
 | **I’m currently learning** 
 ![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)  | **I’m continuing to learn**
 ![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black) |
