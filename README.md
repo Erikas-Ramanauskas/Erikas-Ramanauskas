@@ -16,13 +16,13 @@ I'm actively seeking a Software Developer role in the tech industry where I can 
 Let's connect and explore how my diverse skill set and passion for programming can add value to your network and projects.
 
 ## CONTACT ME
-<a href="https://www.linkedin.com/in/erikas-ramanauskas">
- <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-linkedin?logo=linkedin&logoColor=white&labelColor=%234b034b&color=black">
-</a>
+[![ LinkedIn ](https://img.shields.io/badge/LinkedIn-linkedin?logo=linkedin&logoColor=white&labelColor=%234b034b&color=black)](https://www.linkedin.com/in/erikas-ramanauskas "Visit my LinkedIn profile!")
+[![ Gmail ](https://img.shields.io/badge/Gmail-gmail?logo=gmail&logoColor=white&labelColor=%234b034b&color=black)](mailto:ramanauskas.erikas@googlemail.com "Email Me")
 
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
-**Level 5 Diploma in Web Application Development - Code Institute, Credit Rated by South Devon College (Awarding Organisation: Gateway Qualifications) - Overall Grade: DISTINCTION** 
+**Level 5 Diploma in Web Application Development - Code Institute, Credit Rated by City of Bristol College Overall Grade: NOT FINALISED YET** 
+4 Mandatory projects 
 
 |  | |  |
 | :---: | :---: | :---: | 
