@@ -65,7 +65,7 @@
 
 | Immage | Description and Tools | Project Grade |
 | :--- | :---: | :--- | 
-|  **MILESTONE PROJECT 1: Brick by Brick**  <br/> ![Brick by Brick Responsive](https://github.com/Erikas-Ramanauskas/Milestone-Project-1/raw/master/assets/Images/Read-me/Responsive-img.jpg) <br/> <br/> [Train in XR](https://github.com/JoyZadan/html-css-portfolio-project) is a fictional advisory and consulting firm specialising in Extended Reality (Virtual Reality and Augmented Reality) services for workforce learning and development. <br/> <br/> **FEATURES:**<br/> 1. Augmented Reality <br/> 2. CSS Flexbox and Grid <br/> 3. Fully Responsive | HTML5, CSS, Augmented Reality (Vectary) | Distinction | 
+|  **MILESTONE PROJECT 1: Brick by Brick**  <br/> ![Brick by Brick Responsive](https://github.com/Erikas-Ramanauskas/Milestone-Project-1/raw/master/assets/Images/Read-me/Responsive-img.jpg =100x20) <br/> <br/> [Train in XR](https://github.com/JoyZadan/html-css-portfolio-project) is a fictional advisory and consulting firm specialising in Extended Reality (Virtual Reality and Augmented Reality) services for workforce learning and development. <br/> <br/> **FEATURES:**<br/> 1. Augmented Reality <br/> 2. CSS Flexbox and Grid <br/> 3. Fully Responsive | HTML5, CSS, Augmented Reality (Vectary) | Distinction | 
 
 
 
