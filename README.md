@@ -11,17 +11,19 @@
 </a>
 
 ## MY TECH STACK
-**I’m currently learning ...**
+**I’m currently learning**
 
 <p dir="auto"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black">
 </p>
 
 
-**I’m continuing to learn ...**
+**I’m continuing to learn**
 
 <p dir="auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black">
+  ![Phyton](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&labelColor=%234b034b&color=black">
 </p>
 
 **<>** **Programming Languages**
