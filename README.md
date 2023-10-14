@@ -5,6 +5,16 @@
 ## Full Stack Software Developer
 ### About me
 
+Hello, I’m Erik!
+
+My journey has been a unique blend of customer service roles, managerial experience, and a passion for programming. I hold a diploma in Full-Stack Software Development from Code Institute and possess proficiency in HTML, CSS, JavaScript, and Python.
+
+With 15 years of experience in customer-facing roles, I've mastered the art of adapting quickly to new environments and excelling in team-oriented projects. My transition from waiter and restaurant manager to a project manager in a small security door and window company over the past 5 years was an exciting shift. In this role, I not only sold our products but also took charge of ordering and coordinating installations with our team. This experience enhanced my problem-solving skills and taught me the importance of streamlined processes and effective communication.
+
+I'm actively seeking a Software Developer role in the tech industry where I can apply my diverse skill set. In my journey, I've developed a strong foundation in programming, but I also bring a unique perspective honed by my diverse background in customer service and management. I am committed to fostering innovation, building dynamic teams, and driving forward-thinking solutions.
+
+Let's connect and explore how my diverse skill set and passion for programming can add value to your network and projects.
+
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/erikas-ramanauskas">
  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-linkedin?logo=linkedin&logoColor=white&labelColor=%234b034b&color=black">
