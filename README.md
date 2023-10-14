@@ -7,7 +7,7 @@
 
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/erikas-ramanauskas">
- <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-linkedin?logo=linkedin&logoColor=white&labelColor=#4b034b&color=black">
+ <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-linkedin?logo=linkedin&logoColor=white&labelColor=%234b034b&color=black">
 </a>
 
 ## MY TECH STACK
