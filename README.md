@@ -11,11 +11,9 @@
 </a>
 
 
-| **I’m currently learning**
-
+| **I’m currently learning** 
 ![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)  | **I’m continuing to learn**
-
-![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)    |
+![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black) |
 | February | $80     |
 | March    | $420    |
 
