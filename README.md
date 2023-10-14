@@ -12,6 +12,25 @@
 
 
 ## MY TECH STACK
+
+<table>
+  <tr>
+    <th>**I’m currently learning**</th>
+    <th>**I’m continuing to learn**</th>
+    <th>**Programming Languages**</th>
+  </tr>
+  <tr>
+    <td>![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)</td>
+    <td>![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
 **I’m currently learning** 
 ![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)
 
