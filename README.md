@@ -13,43 +13,31 @@
 ## MY TECH STACK
 **I’m currently learning**
 
-<p dir="auto"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black">
-</p>
-
+![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)
 
 **I’m continuing to learn**
 
-  ![Phyton](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)
-<p dir="auto">
+![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&labelColor=%234b034b&color=black">
-</p>
+**Programming Languages**
 
-**<>** **Programming Languages**
-<p dir="auto">
-  <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/css%203-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />  
- </p>
+![ HTML5 ](https://img.shields.io/badge/HTML5-html5?logo=html5&logoColor=white&labelColor=%234b034b&color=black)
+![ CSS3 ](https://img.shields.io/badge/CSS3-css3?logo=css3&logoColor=white&labelColor=%234b034b&color=black)
+![ JavaScript ](https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&labelColor=%234b034b&color=black)
+![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)
+ 
  
  **Libraries &amp; Frameworks**
- <p dir="auto">
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-    <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769ad?logo=jquery&logoColor=white&style=for-the-badge" />
-    <img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-    <img alt="Jinja" src="https://img.shields.io/badge/jinja-%23B41717?style=for-the-badge&logo=jinja" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-    <img alt="Materialize" src="https://img.shields.io/badge/materialize-ee6e73?logo=materialize&logoColor=white&style=for-the-badge" />
-    <img alt="Fontawesome" src="https://img.shields.io/badge/fontawesome-4f89d0?logo=fontawesome&logoColor=white&style=for-the-badge" />
- </p>
+![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)
+![ jQuery ](https://img.shields.io/badge/jQuery-jquery?logo=jquery&logoColor=white&labelColor=%234b034b&color=black)
+![ Flask ](https://img.shields.io/badge/Flask-flask?logo=flask&logoColor=white&labelColor=%234b034b&color=black)
+![ Jinja ](https://img.shields.io/badge/Jinja-jinja?logo=jinja&logoColor=white&labelColor=%234b034b&color=black)
+![ Bootstrap ](https://img.shields.io/badge/Bootstrap-bootstrap?logo=bootstrap&logoColor=white&labelColor=%234b034b&color=black)
+![ Font Awesome ](https://img.shields.io/badge/FontAwesome-fontawesome?logo=fontawesome&logoColor=white&labelColor=%234b034b&color=black)
+
 
 **Automated Testing**
- <p dir="auto">
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
-    <img alt="Coverage" src="https://img.shields.io/badge/coverage-2980b9?logo=coverage&logoColor=white&style=for-the-badge" />
- </p>
+![ Jest ](https://img.shields.io/badge/Jest-jest?logo=jest&logoColor=white&labelColor=%234b034b&color=black)
 
 **Databases**
   <p dir="auto">
