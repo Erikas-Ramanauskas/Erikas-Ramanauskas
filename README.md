@@ -49,7 +49,7 @@ Let's connect and explore how my diverse skill set and passion for programming c
 
 ## MY FULL TECH STACK
 <details>
-<summary><h4>✅ Click here to view my full technology list</h4></summary>
+<summary><h4>➡️ Click here to view my full technology list ⬅️</h4></summary>
 **I’m currently learning**  
 ![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)  
 
