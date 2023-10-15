@@ -2,7 +2,7 @@
 
 
 # Erikas Ramanauskas
-## Full Stack Software Developer
+Full Stack Software Developer
 ### About me
 
 Hello, I’m Erik!
