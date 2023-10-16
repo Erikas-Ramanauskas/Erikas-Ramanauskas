@@ -1,4 +1,4 @@
-![Main banner]()
+![Main banner](/assets/images/banner.png)
 
 
 # Erikas Ramanauskas
