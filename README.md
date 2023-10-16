@@ -48,8 +48,8 @@ Let's connect and explore how my diverse skill set and passion for programming c
 
 
 ## MY FULL TECH STACK
-<details title="Click arrow to se a full list">
-<summary><h4>⬅️⬅️ Sumary </h4></summary>
+<details title="Click arrow to see a full list">
+<summary><h4>⬅️⬅️ Summary </h4></summary>
 
 **I’m currently learning**  
 ![Django](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black)  
