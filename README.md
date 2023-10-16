@@ -48,7 +48,7 @@ Let's connect and explore how my diverse skill set and passion for programming c
 
 
 ## MY FULL TECH STACK
-<details>
+<details title="Sumary">
 <summary><h4>⬅️⬅️ Click here to view my full technology list </h4></summary>
 
 **I’m currently learning**  
