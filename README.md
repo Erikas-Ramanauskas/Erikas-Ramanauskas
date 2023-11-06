@@ -73,6 +73,7 @@ Let's connect and explore how my diverse skill set and passion for programming c
 ![ Bootstrap ](https://img.shields.io/badge/Bootstrap-bootstrap?logo=bootstrap&logoColor=white&labelColor=%234b034b&color=black)  
 ![ Materialise ](https://img.shields.io/badge/Materialise-materialise?labelColor=%234b034b&color=black)  
 ![ Font Awesome ](https://img.shields.io/badge/FontAwesome-fontawesome?logo=fontawesome&logoColor=white&labelColor=%234b034b&color=black)  
+![ InteractJS ](https://img.shields.io/badge/InteractJS-interactjs?logo=interactjs&logoColor=white&labelColor=%234b034b&color=black)
 
 **Automated Testing**  
 ![ Jest ](https://img.shields.io/badge/Jest-jest?logo=jest&logoColor=white&labelColor=%234b034b&color=black)  
