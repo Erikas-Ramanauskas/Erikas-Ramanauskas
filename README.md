@@ -21,7 +21,7 @@ Let's connect and explore how my diverse skill set and passion for programming c
 
 ## MY FULL TECH STACK
 
-<div style="column-count: 2; column-gap: 20px;">
+
 **I’m currently learning**  
 ![ React ](https://img.shields.io/badge/React-react?logo=react&logoColor=white&labelColor=%234b034b&color=black) 
 
@@ -70,7 +70,7 @@ Let's connect and explore how my diverse skill set and passion for programming c
 
 **Public Cloud**  
 ![ Google Cloud ](https://img.shields.io/badge/GoogleCloud-googlecloud?logo=googlecloud&logoColor=white&labelColor=%234b034b&color=black)  
-</div>
+
 ---
 <br/> 
 <br/> 
